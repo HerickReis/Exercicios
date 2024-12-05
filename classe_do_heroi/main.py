@@ -63,6 +63,6 @@ class Hero:
         print(f"O {self.classe} atacou usando {ataque}")
     
     
-heroi = Hero("Herick", "19", "ninja")
+heroi = Hero("NihNinja", "19", "ninja")
 
 heroi.atacar()
