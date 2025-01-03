@@ -1,2 +1,2 @@
-# desafios-dio
-Repositório destinado a soluções de desafios da plataforma de cursos Digital Innovation One (DIO)
+# Exercicios
+Repositório destinado a soluções de exercicios e desafios passados em plataformas de estudos.
