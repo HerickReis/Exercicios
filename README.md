@@ -1,2 +1,2 @@
 # Exercicios
-Repositório destinado a soluções de exercicios e desafios propostosem plataformas de estudos.
+Repositório destinado a soluções de exercicios e desafios propostos em plataformas de estudos.
