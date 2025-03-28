@@ -1,5 +1,5 @@
 # FIAP 
-<img src="../imagens/Fiap.jpg" width="100" height="100" alt="Fiap">
+<img src="../Imagens/Fiap.jpg" width="100" height="100" alt="Fiap">
 
 Este repositórios está direcionado as atividades propostas em aulas do curso de ADS (Análise e desenvolvimento de sistemas).
 

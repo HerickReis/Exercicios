@@ -1,5 +1,5 @@
 # Udemy
-<img src="../imagens/Udemy.png" width="100" height="100" alt="Udemy">
+<img src="../Imagens/Udemy.png" width="100" height="100" alt="Udemy">
 
 Este repositório está direcionado aos desafios e exercicios propostos nos cursos da Udemy
 

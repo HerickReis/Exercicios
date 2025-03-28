@@ -1,5 +1,5 @@
 # Dio
-<img src="../imagens/Dio.png" width="100" height="100" alt="Dio">
+<img src="../Imagens/Dio.png" width="100" height="100" alt="Dio">
 
 Este repositórios está direcionado aos exercios e atividades propostas nos cursos e bootcamps realizados na platafoma [Digital Innovation One](https://www.dio.me/) (Dio)
 
